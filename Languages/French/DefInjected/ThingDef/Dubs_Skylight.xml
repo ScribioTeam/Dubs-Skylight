@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SkyLightA.label>puits de lumière</SkyLightA.label>
+  <SkyLightA.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightA.description>
+  <SkyLightA_Blueprint.label>Puits de lumière (Plan)</SkyLightA_Blueprint.label>
+  <SkyLightA_Frame.label>Puits de lumière (En cours de construction)</SkyLightA_Frame.label>
+  <SkyLightA_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightA_Frame.description>
+
+  <SkyLightD.label>Puits de lumière 2x2</SkyLightD.label>
+  <SkyLightD.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightD.description>
+  <SkyLightD_Blueprint.label>Puits de lumière 2x2 (Plan)</SkyLightD_Blueprint.label>
+  <SkyLightD_Frame.label>Puits de lumière 2x2 (En cours de construction)</SkyLightD_Frame.label>
+  <SkyLightD_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightD_Frame.description>
+
+  <SkyLightB.label>Puits de lumière 3x3</SkyLightB.label>
+  <SkyLightB.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightB.description>
+  <SkyLightB_Blueprint.label>Puits de lumière 3x3 (Plan)</SkyLightB_Blueprint.label>
+  <SkyLightB_Frame.label>Puits de lumière 3x3 (En cours de construction)</SkyLightB_Frame.label>
+  <SkyLightB_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightB_Frame.description>
+
+  <SkyLightC.label>Puits de lumière 1x4</SkyLightC.label>
+  <SkyLightC.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightC.description>
+  <SkyLightC_Blueprint.label>Puits de lumière 1x4 (Plan)</SkyLightC_Blueprint.label>
+  <SkyLightC_Frame.label>Puits de lumière 1x4 (En cours de construction)</SkyLightC_Frame.label>
+  <SkyLightC_Frame.description>Laisse passer la lumière du jour à travers une fenêtre dans le toit~</SkyLightC_Frame.description>
+
+
+</LanguageData>
